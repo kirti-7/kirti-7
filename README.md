@@ -6,7 +6,7 @@
 ### 🤝You can connect with me on [LinkedIn](https://www.linkedin.com/in/kirti-valechha/)
 
 [![image](https://user-images.githubusercontent.com/78252132/187651119-59c58aed-43a6-4b90-b22f-cacf62c8e93f.png)](https://www.codechef.com/users/valechha_kirti)
-Click on the image👆 to see🙄 the magic✨ 😉
+# Click on the image👆 to see🙄 the magic✨ 😉
 
 
 <!--
