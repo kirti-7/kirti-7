@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a 3⭐ coder at code chef.
-I do build 📱 Android Apps(java)
-I use MERN Stack for website development
-🤝You can connect with me on LinkedIn - https://www.linkedin.com/in/kirti-valechha/
+### I'm a 3⭐ coder at code chef.
+### I do build 📱 Android Apps(java)
+### I use MERN Stack for website development
+### 🤝You can connect with me on LinkedIn - https://www.linkedin.com/in/kirti-valechha/
 
 
 <!--
