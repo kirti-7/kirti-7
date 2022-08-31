@@ -5,6 +5,8 @@
 ### I use MERN Stack for website development
 ### 🤝You can connect with me on LinkedIn - https://www.linkedin.com/in/kirti-valechha/
 
+![image](https://user-images.githubusercontent.com/78252132/187651119-59c58aed-43a6-4b90-b22f-cacf62c8e93f.png)
+
 
 <!--
 **kirti-7/kirti-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
