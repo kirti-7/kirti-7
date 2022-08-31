@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a 3⭐ coder at code chef.
+I do build 📱 Android Apps(java)
+I use MERN Stack for website development
+🤝You can connect with me on LinkedIn - https://www.linkedin.com/in/kirti-valechha/
+
+
 <!--
 **kirti-7/kirti-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
