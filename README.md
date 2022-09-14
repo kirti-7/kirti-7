@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=kirti-7&color=blueviolet)
 ### Hi there 👋
 
 ### I'm a 3⭐ coder at code chef.
