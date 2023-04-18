@@ -4,7 +4,7 @@
 ### I'm a 3⭐ coder at code chef.
 ### I do build 📱 Android Apps(java)
 ### I use MERN Stack for website development
-### 🤝You can connect with me on [LinkedIn](https://www.linkedin.com/in/kirti-valechha/)
+### 🤝You can connect with me on [LinkedIn](https://www.linkedin.com/in/kirti-valechha/) [Gmail](kirtivalechha27@gmail.com)
 
 [![image](https://user-images.githubusercontent.com/78252132/187651119-59c58aed-43a6-4b90-b22f-cacf62c8e93f.png)](https://www.codechef.com/users/valechha_kirti)
 ##### Click on the image👆 to see🙄 the magic✨ 😉
